@@ -1,11 +1,6 @@
-# intro-programming
+# **Introduction to Programming in C/C++**
 
-<p align="center">
-  <img width="800" src="./raw/img/intro-programming.png"">
-</p>
-
-
-> **Introduction to Programming in C/C++, Supervisor: Prof. Hassan Bashiri**
+> **Computer Fandamental and (C/C++) Programming, Supervisor: Prof. Hassan Bashiri**
 
 > ***Computer Engineering Department of Hamedan University of Technology***
 
@@ -46,7 +41,7 @@ Welcome to Fandamental of Programming in C/C++ for BSc. ! Here you will find fri
 * The `assignment` directory contains all of Problem Sets and Assignments that has template design files.
 * The `samples` directory is contains all of sample cores for subjects.
 
-## How to complete Lab course as good student
+## How to complete course as good student :)
 
 [1] Clone repository to own account.
 
