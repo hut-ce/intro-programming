@@ -5,11 +5,11 @@
 </p>
 
 
-> Introduction to Programming in C/C++, Supervisor: Prof. Hassan Bashiri
+> **Introduction to Programming in C/C++, Supervisor: Prof. Hassan Bashiri**
 
-> *Computer Engineering Department of Hamedan University of Technology*
+> ***Computer Engineering Department of Hamedan University of Technology***
 
-> Course Material by [Prof. Hassan Bashiri](http://profs.hut.ac.ir/~bashiri), and [Mr. Ali Mohammadpour](https://github.com/alimpk)
+> **Course Material by [Prof. Hassan Bashiri](http://profs.hut.ac.ir/~bashiri), and [Mr. Ali Mohammadpour](https://github.com/alimpk)**
 
 > **Current Semester: 2022 Semester**
 
@@ -66,10 +66,10 @@ Welcome to Fandamental of Programming in C/C++ for BSc. ! Here you will find fri
 
 [5] commit your codes in branch (`git add pr-main & git commit`)
 
-[6] set branch remote to private repository like CEIT Gitlab (`git push -u https://git.hut.ir/aut.ac.ir/XYZ pr-main`)
+[6] set branch remote to private repository like CEIT Gitlab (`git push -u https://git.hut.ac.ir/XYZ pr-main`)
 
-[7] after passing the course, add your id and semester in last line of [*who-had-cpp-course.md*](./who-had-cpp-course.md) file by pull request.
+[7] after passing the course, add your id and semester in last line of [*.who-had-cpp-course.md*](./.who-had-cpp-course.md) file by pull request.
 
 ## Teaching Assistants and Lab Instructors over Semesters
 
-Dear TA, Lab instructor, you can add your name and semester in [who-had-cpp-ta.md](./who-had-cpp-ta.md) file by pull request or create new issue.
+Dear TA, Lab instructor, you can add your name and semester in [*.who-had-cpp-ta.md*](./.who-had-cpp-ta.md) file by pull request or create new issue.
