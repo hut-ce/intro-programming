@@ -61,4 +61,4 @@ Welcome to Fandamental of Programming in C/C++ for BSc. ! Here you will find fri
 
 ## Teaching Assistants and Lab Instructors over Semesters
 
-Dear TA, Lab instructor, you can add your name and semester in who-had-cpp-lab-ta.md file by pull request or create new issue.
+Dear TA, Lab instructor, you can add your name and semester in [who-had-cpp-ta.md](./who-had-cpp-ta.md) file by pull request or create new issue.
