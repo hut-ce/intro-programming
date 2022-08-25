@@ -1,6 +1,10 @@
 # intro-programming
 
-![Course Logo](https://)
+<p align="center">
+  <img width="800" src="./raw/img/intro-programming.png"">
+</p>
+
+
 > Introduction to Programming in C/C++, Supervisor: Prof. Hassan Bashiri
 
 > *Computer Engineering Department of Hamedan University of Technology*
@@ -12,7 +16,6 @@
 ## Synopsis
 Welcome to Fandamental of Programming in C/C++ for BSc. ! Here you will find friendly slides, small codes, and projects designed specfically for C/C++ beginners with limited programming experiences.
 
-<div style="text-align:center"><img src="./raw/img/intro-programming.png" /></div>
 
 ## Refrences
 
@@ -21,7 +24,9 @@ Welcome to Fandamental of Programming in C/C++ for BSc. ! Here you will find fri
 3. [**The C Programming Language**, 2nd Edition, Dennis Ritchie, and Brian Kernighan, 1978]()
 4. [**The C++ Programming Language**, 4th Edition, Bjarne Stroustrup, 2013]()
 
-<div style="text-align:center"><img src="./raw/img/references-covers.png" /></div>
+<p align="center">
+  <img width="800" src="./raw/img/references-covers.png"">
+</p>
 
 # Quick Start
 
