@@ -6,16 +6,19 @@
 
 **1. What is Algoithms**
 **2. What is Flowcharts**
-**3. Examples**
-   1. Some of Numbers up to N
+**3. Examples with Solution**
+   1. Some of N Numbers
    2. Average of N Numbers
    3. Prime Number Check
    4. Min/Max of N Numbers
-   5. Can Design Triangle
-   6. Complete Numbers
+   5. Possible Design Triangle via Lines
+   6. Count Number of Digits
    7. GCD Calculation
-   8. Convert Binary to Decimal
-   9.  Some of Digits in Numbrt
-   10. Fibonacci Series up to n
+   8. Some of Digits in Numbrt
 
-
+**3. Examples without Solution**
+   1. Calculate Fibonacci series up to N
+   2. Some of Digits in Numbrt
+   3. Convert Binary to Decimal
+   4. Convert Decimal to Binary (Reversed)
+   5. Convert Binary to Decimal
