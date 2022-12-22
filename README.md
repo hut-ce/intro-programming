@@ -12,6 +12,11 @@
 Welcome to Fandamental of Programming in C/C++ for BSc. ! Here you will find friendly slides, small codes, and projects designed specfically for C/C++ beginners with limited programming experiences.
 
 
+## Course Material
+
+- [**Algoritms**](./materials/README.md)
+- [**Sources**](./materials/README.md)
+
 ## Refrences
 
 1. **C++ How to Program**, 10th Edition, Harvey Deitel, and Paul Deitel, 2017 
